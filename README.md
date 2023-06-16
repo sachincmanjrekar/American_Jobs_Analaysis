@@ -1,4 +1,4 @@
-# American_Jobs_Analaysis
+# American_Jobs_Analysis
 Problems to be answered:
 1. Identify the top five industries with the highest number of job openings
 2. Analyze the distribution of job opportunities based on geographic regions
